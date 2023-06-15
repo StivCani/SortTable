@@ -1,0 +1,13 @@
+
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    overflow: hidden;
+}
+
+.row-test:hover{
+    background:rgba(190, 199, 190, 0.4)!important;
+}
+  
